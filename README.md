@@ -35,7 +35,7 @@ The project to decompile Crash Team Racing assembly into human readable C code.
 
 ### NTSC-U (USA Retail)
 
-- Decompiled and commented![](https://progress-bar.dev/97/)
-- Functions rewritten![](https://progress-bar.dev/92/?scale=1171&width=300&suffix=%20functions%20out%20of%201171)
+- Decompiled and commented ![](https://progress-bar.dev/97/)
+- Functions rewritten ![](https://progress-bar.dev/92/?scale=1171&width=300&suffix=%20functions%20out%20of%201171)
 
 ### 
