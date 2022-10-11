@@ -30,14 +30,15 @@ Watch our [Mod Showcases](https://www.youtube.com/playlist?list=PL2jaTxWyUt6yOsE
 - Compile C code into any address and overlays
 - Hot Swap: Swap mods while the game is running
 
-## Getting started
-### Pre-requisites
-### How to install
+# Getting Started
+## Pre-requisites
+## Installation
 
 # CTR-in-C
 
 The project to decompile Crash Team Racing assembly into human readable C code.
 
+## Progress
 ### NTSC-U (USA Retail)
 
 - Decompiled and commented <br>
@@ -48,3 +49,5 @@ The project to decompile Crash Team Racing assembly into human readable C code.
 ### PAL (EUR Retail)
 ### JAPAN TRIAL DEMO
 ### NTSC-J (JPN Retail)
+
+## Contributing
