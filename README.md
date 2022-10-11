@@ -18,9 +18,9 @@ Watch our [Mod Showcases](https://www.youtube.com/playlist?list=PL2jaTxWyUt6yOsE
 - ✔ Custom Texture
 - ✔ Custom Cups
 - ✔ Virtual Reality Play
-- ❓ Custom Character Model
-- ❓ Custom Level
-- ❓ OnlineCTR: Real-time non-Splitscreen Online Multiplayer
+- ⏳ Custom Character Model
+- ⏳ Custom Level
+- ⏳ OnlineCTR: Real-time non-Splitscreen Online Multiplayer
 
 ## As Modder/Developer
 
@@ -29,6 +29,11 @@ Watch our [Mod Showcases](https://www.youtube.com/playlist?list=PL2jaTxWyUt6yOsE
 - Supports all retail versions and more
 - Compile C code into any address and overlays
 - Hot Swap: Swap mods while the game is running
+
+## Getting started
+### Pre-requisites
+### How to install
+
 # CTR-in-C
 
 The project to decompile Crash Team Racing assembly into human readable C code.
@@ -40,4 +45,6 @@ The project to decompile Crash Team Racing assembly into human readable C code.
 - Functions rewritten <br>
 ![](https://progress-bar.dev/92/?scale=1171&width=300&suffix=%20functions%20out%20of%201171)
 
-### 
+### PAL (EUR Retail)
+### JAPAN TRIAL DEMO
+### NTSC-J (JPN Retail)
