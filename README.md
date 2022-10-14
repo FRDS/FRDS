@@ -17,7 +17,7 @@ This SDK uses [psx-modding-tools](https://github.com/mateusfavarin/psx-modding-t
 
 Watch our mod showcases: 
 
-[![video](https://img.youtube.com/vi/BeuqK96udfs/hqdefault.jpg)](https://www.youtube.com/watch?v=AXJuTpw373g&list=PL2jaTxWyUt6yOsEhidU4zAENmCXetvbNW&index=1)
+[![Mod Showcases](https://img.youtube.com/vi/BeuqK96udfs/hqdefault.jpg)](https://www.youtube.com/watch?v=AXJuTpw373g&list=PL2jaTxWyUt6yOsEhidU4zAENmCXetvbNW&index=1)
 
 # Features 📃
 
@@ -35,6 +35,8 @@ Watch our mod showcases:
 - ⏳ Custom Level
 - ⏳ OnlineCTR: Real-time non-Splitscreen Online Multiplayer
 
+Check out our [latest releases](https://github.com/CTR-tools/CTR-ModSDK/releases/latest).
+
 ## As Modder/Developer
 
 - Extract and build ISO in few steps
@@ -43,13 +45,25 @@ Watch our mod showcases:
 - Compile C code into any address and overlays
 - Hot Swap: Swap mods while the game is running
 
-# 🏁 Getting Started
-## Pre-requisites
-## Installation
+# 🏁 How to Start Modding
+
+## Requirements
+
+- python 3+
+
+## Downloading the SDK
+
+Clone this repository:
+`$ git clone https://github.com/CTR-Tools/CTR-ModSDK.git`
+
+You can find [example mods](https://github.com/CTR-tools/CTR-ModSDK/tree/main/psx-modding-toolchain/games/CrashTeamRacing/mods) in our repo.
+
 
 # CTR-in-C
 
 Work-in-progress project to decompile Crash Team Racing into human-readable C code.
+
+[![Decompile Overview](https://img.youtube.com/vi/V9QlFzSVDAU/hqdefault.jpg)](https://www.youtube.com/watch?v=V9QlFzSVDAU)
 
 ## 📊 Progress
 ### Research and Decompilation
@@ -61,10 +75,16 @@ Decompiling the assembly assisted by Ghidra, researching how it works and adding
 ### Code Rewrite
 
 Rewriting Ghidra output to human-readable C Code and testing if it matches.
-Most of the code are shared between versions.
+Most of the source code are shared between versions.
 
-- ![](https://progress-bar.dev/92/?scale=1171&width=300&title=USA&suffix=%20functions%20out%20of%20~1171)
-- ![](https://progress-bar.dev/22/?scale=1171&width=300&title=PAL&suffix=%20functions%20out%20of%20~1200)
-- ![](https://progress-bar.dev/94/?scale=1171&width=300&title=JPN&suffix=%20functions%20out%20of%20~1200)
+- ![](https://progress-bar.dev/92/?scale=1171&width=300&title=USA&suffix=%20functions%20out%20of%201171*)
+- ![](https://progress-bar.dev/22/?scale=1171&width=300&title=PAL&suffix=%20functions%20out%20of%201200*)
+- ![](https://progress-bar.dev/94/?scale=1171&width=300&title=JPN&suffix=%20functions%20out%20of%201200*)
+
+* These are not accurate numbers and subject to change.
 
 ## 🤝 Contributing
+
+Are you interested in contributing? Have any experience in C programming language? You're welcome to join!
+
+Get in touch with us through our [Discord](https://discord.gg/WHkuh2n) or you can directly take a look at our [decomp directory](https://github.com/CTR-tools/CTR-ModSDK/tree/main/psx-modding-toolchain/games/CrashTeamRacing/decompile). 
