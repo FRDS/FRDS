@@ -35,7 +35,7 @@ Watch our mod showcases:
 - ⏳ Custom Level
 - ⏳ OnlineCTR: Real-time non-Splitscreen Online Multiplayer
 
-Check out our [latest releases](https://github.com/CTR-tools/CTR-ModSDK/releases/latest).
+Check out our [latest release](https://github.com/CTR-tools/CTR-ModSDK/releases/latest).
 
 ## As Modder/Developer
 
@@ -49,15 +49,24 @@ Check out our [latest releases](https://github.com/CTR-tools/CTR-ModSDK/releases
 
 ## Requirements
 
-- python 3+
+- [python 3+](https://github.com/PackeTsar/Install-Python)
+- Open command prompt (CMD/Terminal) and install the dependencies:
+```
+pip install requests
+pip install opencv-python
+```
 
 ## Downloading the SDK
 
 Clone this repository:
-`$ git clone https://github.com/CTR-Tools/CTR-ModSDK.git`
 
-You can find [example mods](https://github.com/CTR-tools/CTR-ModSDK/tree/main/psx-modding-toolchain/games/CrashTeamRacing/mods) in our repo.
+```
+$ git clone https://github.com/CTR-Tools/CTR-ModSDK.git
+```
 
+- You can find [example mods](https://github.com/CTR-tools/CTR-ModSDK/tree/main/psx-modding-toolchain/games/CrashTeamRacing/mods) in our repo.
+- Each mod folder includes a `readme.txt` file on what the mod does and how to use it. 
+- To build a mod, simply run `build.bat` in the mod folder.
 
 # CTR-in-C
 
@@ -87,4 +96,4 @@ Most of the source code are shared between versions.
 
 Are you interested in contributing? Have any experience in C programming language? You're welcome to join!
 
-Get in touch with us through our [Discord](https://discord.gg/WHkuh2n) or you can directly take a look at our [decomp directory](https://github.com/CTR-tools/CTR-ModSDK/tree/main/psx-modding-toolchain/games/CrashTeamRacing/decompile). 
+Get in touch with us through our [Discord](https://discord.gg/WHkuh2n) or you can directly look at our [decomp directory](https://github.com/CTR-tools/CTR-ModSDK/tree/main/psx-modding-toolchain/games/CrashTeamRacing/decompile). 
