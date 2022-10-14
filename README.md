@@ -90,7 +90,7 @@ Most of the source code are shared between versions.
 - ![](https://progress-bar.dev/22/?scale=1171&width=300&title=PAL&suffix=%20functions%20out%20of%201200*)
 - ![](https://progress-bar.dev/94/?scale=1171&width=300&title=JPN&suffix=%20functions%20out%20of%201200*)
 
-* These are not accurate numbers and subject to change.
+\* These are not accurate numbers and subject to change.
 
 ## 🤝 Contributing
 
