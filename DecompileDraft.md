@@ -265,10 +265,10 @@
 <details>
 <summary>Sega Master System</summary>
 
-    - Phantasy Star
+- Phantasy Star  
     https://github.com/lory90/ps1disasm
 
-    - Sonic 2 (SMS)
+- Sonic 2 (SMS)  
     https://github.com/sonicretro/s2smsdisasm
 
 </details>
@@ -276,7 +276,7 @@
 <details>
 <summary>Sega Mega Drive</summary>
 
-- Kid Chameleon 
+- Kid Chameleon  
     https://github.com/sonicretro/kid-chameleon-disasm
 
 - Knucles the Echidna in Sonic 2  
@@ -303,7 +303,7 @@
 - Sonic 3  
     https://github.com/sonicretro/s2disasm
 
-- Tetris
+- Tetris  
     https://github.com/lory90/tetrisdisasm
 
 - Sonic 3D Blast  
@@ -328,7 +328,7 @@
 <details>
 <summary>Sega Model 2 Arcade</summary>
 
-    - Sonic the Fighters
+- Sonic the Fighters  
     https://github.com/cglmrfreeman/stfdisasm
 
 </details>
@@ -400,7 +400,7 @@
 <details>
 <summary>Xbox 360</summary>
 
-- Terraria (Broken source)
+- Terraria (Broken source)  
     https://github.com/dptug/TerrariaXDK
 
 </details>
@@ -442,10 +442,10 @@
 <details>
 <summary>Atari 2600</summary>
 
-    - A collection of Atari 2006 Disassemblies
+- A collection of Atari 2006 Disassemblies  
     http://www.bjars.com/disassemblies.html
 
-    - Donkey Kong
+- Donkey Kong  
     https://atariage.com/forums/topic/286583-donkey-kong-disassembly-take-2/
 
 </details>
@@ -515,13 +515,13 @@
 - Aero Gauge  
     https://github.com/LLONSIT/AeroGauge
 
-- Conker's Bad Fur Day
+- Conker's Bad Fur Day  
     https://github.com/mkst/conker 
 
 - Dinosaur Planet  
     https://github.com/zestydevy/dinosaur-planet 
 
-- Wave Race 64
+- Wave Race 64  
     https://github.com/LLONSIT/wr64
 
 </details>
@@ -567,7 +567,7 @@
 <details>
 <summary>PC</summary>
 
-- Deus Ex: Human Revolution
+- Deus Ex: Human Revolution  
     https://github.com/rrika/cdcEngineDXHR
 
 </details>
@@ -621,7 +621,7 @@
 <details>
 <summary>GameCube</summary>
 
-- Animal Crossing
+- Animal Crossing  
     https://github.com/Cuyler36/Animal-Crossing-Decomp
 
 - Paper Mario: The Thousand Year Door  
